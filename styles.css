@@ -1,0 +1,12 @@
+body {
+  width: 105vw;
+  height: 105vh;
+}
+
+.forest {
+    width: 100vw;
+    height: 100vh;
+    margin: 2.5%;
+    background-color: green;
+    animation: starting_position .5s;
+}
