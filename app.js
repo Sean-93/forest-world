@@ -6,6 +6,9 @@ function myFunction() {
   elmnt.scrollIntoView();
 }
 
+// THIS IS AN ARRAY WHERE THE IMAGES ARE STORED
+
+
 
 // THIS IS A FUNCTION THAT DETECTS SCROLL BEHAVIOR 
 
